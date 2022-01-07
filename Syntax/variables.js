@@ -2,7 +2,7 @@
 // var 
 console.log('~~~~~ var ~~~~~');
 
-var someThing;
+var someThing; // assigned as "undefined"
 console.log(someThing);
 var someThing = 5;
 console.log(someThing);
@@ -12,7 +12,7 @@ console.log(someThing);
 // let
 console.log('~~~~~ let ~~~~~');
 
-let price;
+let price; // assigned as "undefined"
 console.log(price);
 price = 10.00;
 console.log(price);
