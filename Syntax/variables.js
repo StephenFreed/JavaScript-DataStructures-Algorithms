@@ -26,3 +26,11 @@ console.log('~~~~~ const ~~~~~');
 const constantValue = 10;
 console.log(constantValue);
 
+console.log();
+
+// template literals // back tics
+console.log(`This variable is: ${constantValue}`);
+
+// get varable type
+console.log('The type of constantValue is "' + typeof constantValue + '"');
+
